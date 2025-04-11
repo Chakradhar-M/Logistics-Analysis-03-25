@@ -28,3 +28,17 @@ The goal of this project is to develop an interactive Power BI dashboard that en
 The dashboard is designed to help logistics managers and supply chain professionals make data-driven decisions to enhance delivery performance and optimize routes.
 
 ---
+
+
+###  📂 Essential Project Links  
+
+| 🧭 Resource | 🔗 Access |
+|------------|----------|
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/database.png?raw=true" width="20" style="vertical-align:middle;"> **Data Source** | 👉 [Click to View Data Source](#) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/power-bi.png?raw=true" width="22" style="vertical-align:middle;"> **Power BI Live Report** | 📊 [View Interactive Dashboard](#) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/youtube.png?raw=true" width="20" style="vertical-align:middle;"> **Project Presentation** | 🎬 [Watch Presentation](#) |
+| <img src="https://github.com/Chakradhar-M/PBI_Images/blob/main/Portfolio_Icons/linkedin.png?raw=true" width="22" style="vertical-align:middle;"> **LinkedIn Post** | 🔗 [Read on LinkedIn](#) |
+
+📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
+
+---
