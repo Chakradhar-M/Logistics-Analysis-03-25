@@ -54,3 +54,16 @@ The dashboard is designed to help logistics managers and supply chain profession
 🔗 Check out the **Data Dictionary** here 👉 [Click here](https://github.com/Chakradhar-M/Logistics-Analysis-03-25/blob/main/dataset/data_dictionary.md)
 
 ---
+
+### 📊 Key Performance Indicators (KPIs)
+
+1️⃣ **Avg Trip Distance (Km)**  
+Calculates the average distance traveled per trip in kilometers. It helps in understanding the typical transportation distance.
+
+2️⃣ **Avg Trip Duration (Hours)**  
+Measures the average time (in hours) taken for each trip. This helps in understanding the typical duration of transportation tasks.
+
+3️⃣ **Total Shipments**  
+Counts the total number of shipments. It provides an overview of the volume of shipments handled.
+
+---
